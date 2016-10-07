@@ -41,7 +41,7 @@ prejudicar o sistema, se ele der erro, ele somente podera ser ajustado
 Vamos utilizar o SOLID, apesar das regras que muitos acham dificil, é ideal para evitar falhas
 
 O arquivo teste anexado, servira para que possam visualizar as falhas de um programador, e como o SOLID pode ajudar
-desfrutem deste artigo e bons codigos de hoje para frente
+desfrutem deste artigo e bons codigos de hoje para frente.
 
 
 
